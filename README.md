@@ -1,6 +1,6 @@
 # Encriptador-y-Desencriptador
-CHALLENGE de One Oracle The Next Education Encriptador y Desencriptador
-Encriptador de Texto
+CHALLENGE de One Oracle The Next Education Encriptador y Desencriptador de Texto
+
 Este programa es un encriptador de texto básico que utiliza una serie de reemplazos predefinidos para encriptar y desencriptar el texto 
 ingresado. 
 El programa está construido con HTML, CSS y JavaScript.
@@ -13,6 +13,7 @@ Puedes ajustar la altura del cuadro de texto de entrada automáticamente mientra
 de altura.
 Reemplazos
 El programa utiliza los siguientes reemplazos para encriptar y desencriptar el texto:
+
 "e" se reemplaza por "enter"
 "o" se reemplaza por "ober"
 "i" se reemplaza por "imes"
